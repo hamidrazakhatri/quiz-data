@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.Main__coloring {
+  width: 100%;
+  height: 100vh;
+  background-color: antiquewhite !important;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.paper{
+    width: 300px;
+    background-color: rgb(195, 185, 185);
+    padding: 15px;
+    /* box-shadow: 10px 10px rgba(0, 0, 0, 0.54); */
+    text-align: center;
+}
+.Heading__text{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 3rem;
+}

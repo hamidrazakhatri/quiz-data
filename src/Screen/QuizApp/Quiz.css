@@ -1,0 +1,16 @@
+.background__Color {
+  background-color: rgb(182, 178, 166) !important;
+  width: 100% !important;
+  height: 100vh !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.classna {
+  width: 50%;
+  height: auto;
+  color: rgb(230, 212, 212);
+
+  display: flex;
+  justify-content: center;
+}
